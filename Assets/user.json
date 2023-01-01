@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "FurryTale",
+    "age": 1640,
+    "desc": "Can keep you warm!",
+    "image": "Assets/4.jpg"
+  },
+  {
+    "id": "2",
+    "name": "PinkDreams",
+    "age": 172,
+    "desc": "4 arms and 4 feet!",
+    "image": "Assets/3.jpg"
+  },
+  {
+    "id": "3",
+    "name": "BigEyes",
+    "age": 1811,
+    "desc": "Young and Horny!",
+    "image": "Assets/1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "BestTeeth",
+    "age": 2,
+    "desc": "I like eating books!",
+    "image": "Assets/2.jpg"
+  }
+]
